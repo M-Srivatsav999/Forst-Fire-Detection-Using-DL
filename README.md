@@ -1,1 +1,3 @@
 # Forst-Fire-Detection-Using-DL
+
+AICTE EDUNET VIRTUAL INTERNSHIP 2025
